@@ -2,9 +2,8 @@
 
 > A clean, fast and original Minecraft launcher for Windows — Vanilla, Fabric, Forge, Quilt, OptiFine & Custom clients. Inspired by PrismLauncher's power and NoRiskClient's minimal dark aesthetic, built from scratch in Python + PySide6.
 
-![KLauncher](Assets/Icons/Klauncher_logo.svg)
 
-**Version:** 1.0.0 · **By KOBI · 2026** · **License:** Open Source · **Platform:** Windows 10/11 (x64)
+ · **By KOBI · 2026** · **License:** Mit License - Open Source · **Platform:** Windows 10/11 (x64)
 
 ---
 
@@ -72,9 +71,9 @@ pyinstaller KLauncher.spec  # → dist/KLauncher/KLauncher.exe
 
 ### ⚙️ Requirements
 
-* Windows 10/11 x64, 2GB RAM default (configurable), internet for first version/mod download.
+* Windows 10/11/7 x64, 2GB RAM default (configurable), internet for first version/mod download.
 
-### 💙 Supporting KLauncher
+### 💙 Supporting The Developer
 
 > ### 💙 Supporting KLauncher
 >
@@ -88,8 +87,10 @@ pyinstaller KLauncher.spec  # → dist/KLauncher/KLauncher.exe
 
 ### 📄 License
 
-Open Source — inspired by PrismLauncher (GPL-3.0) and NoRiskClient layout, **no code/assets copied**. KLauncher is not affiliated with Mojang, Microsoft, PrismLauncher or NoRiskClient.
+Mit — inspired by PrismLauncher (GPL-3.0) and NoRiskClient layout, **no code/assets copied**. KLauncher is not affiliated with Mojang, Microsoft, PrismLauncher or NoRiskClient.
 
+### Note : 
+> Klauncher not a fork of other launcher , its build from scratch launcher , just use prism Client ID to Microsoft Oauth , Because Im 14 YEARS OLD and I cant Subscribe To Get Azure Account :|
 ---
 
-**KLauncher — Launch clean. Stay original.**
+**KLauncher — KOBI 2026**
